@@ -142,7 +142,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -156,7 +156,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -180,7 +180,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -1009,7 +1009,43 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      spr_hammering_strip23_0: -853955614518190756
+      spr_hammering_strip23_1: 6223017800320698747
+      spr_hammering_strip23_10: -6758222166142884528
+      spr_hammering_strip23_11: -1090062614432104273
+      spr_hammering_strip23_12: -9213267462527299665
+      spr_hammering_strip23_13: -6081840918726420277
+      spr_hammering_strip23_14: 5898753199207525348
+      spr_hammering_strip23_15: 1235527882336528676
+      spr_hammering_strip23_16: 6028622074089980335
+      spr_hammering_strip23_17: 7406356501058770933
+      spr_hammering_strip23_18: -3972514539542218822
+      spr_hammering_strip23_19: 1183511297319154783
+      spr_hammering_strip23_2: 8522019434126375366
+      spr_hammering_strip23_20: -987229703076942724
+      spr_hammering_strip23_21: -6083479080720523898
+      spr_hammering_strip23_22: 5611871488532485676
+      spr_hammering_strip23_23: -5947121751714974556
+      spr_hammering_strip23_24: -3392049236294749667
+      spr_hammering_strip23_25: 3482342210193371741
+      spr_hammering_strip23_26: 1841653850340118904
+      spr_hammering_strip23_27: -6227155533523698007
+      spr_hammering_strip23_28: 7840068195899631880
+      spr_hammering_strip23_29: 7211181152250139873
+      spr_hammering_strip23_3: -4338291032578518502
+      spr_hammering_strip23_30: 7662708265282946922
+      spr_hammering_strip23_31: -2345299605782168523
+      spr_hammering_strip23_32: 7799771439024533182
+      spr_hammering_strip23_33: 6722227702976557670
+      spr_hammering_strip23_34: 7014085672313723520
+      spr_hammering_strip23_35: 6805374495169381918
+      spr_hammering_strip23_4: -997929695220578032
+      spr_hammering_strip23_5: 5177274688366523122
+      spr_hammering_strip23_6: -3933360943407233461
+      spr_hammering_strip23_7: 1755438778882553262
+      spr_hammering_strip23_8: 1536511527239872215
+      spr_hammering_strip23_9: 2280479222109951654
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

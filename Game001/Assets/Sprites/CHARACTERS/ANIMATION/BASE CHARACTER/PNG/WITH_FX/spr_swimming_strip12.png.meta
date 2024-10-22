@@ -70,7 +70,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -84,7 +84,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -108,7 +108,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -409,7 +409,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      spr_swimming_strip12_0: -8247888446869020008
+      spr_swimming_strip12_1: -3632062043995045989
+      spr_swimming_strip12_10: 2162272445340472228
+      spr_swimming_strip12_11: 941396898578395886
+      spr_swimming_strip12_2: -7759771715280938091
+      spr_swimming_strip12_3: -6683346899128637861
+      spr_swimming_strip12_4: 1802821921478775634
+      spr_swimming_strip12_5: -2075168649821298583
+      spr_swimming_strip12_6: 5800463954564454934
+      spr_swimming_strip12_7: 6199050956964887405
+      spr_swimming_strip12_8: 7815296774474898875
+      spr_swimming_strip12_9: -6358673780954837562
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

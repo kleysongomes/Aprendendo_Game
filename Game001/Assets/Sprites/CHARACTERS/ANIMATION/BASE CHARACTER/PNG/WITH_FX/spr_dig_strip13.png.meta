@@ -76,7 +76,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -90,7 +90,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -114,7 +114,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -459,7 +459,21 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      spr_dig_strip13_0: -4296275963049267528
+      spr_dig_strip13_1: -2426689901096126957
+      spr_dig_strip13_10: 2899006641806098729
+      spr_dig_strip13_11: 1175710436619766189
+      spr_dig_strip13_12: -5534171298269220749
+      spr_dig_strip13_13: -8444045819260443275
+      spr_dig_strip13_2: -758281624214757070
+      spr_dig_strip13_3: -8430322912755681265
+      spr_dig_strip13_4: -6831712209876214628
+      spr_dig_strip13_5: -7941442513938369467
+      spr_dig_strip13_6: 8178048167188857130
+      spr_dig_strip13_7: -6541550084837175338
+      spr_dig_strip13_8: 6682045005532923608
+      spr_dig_strip13_9: 4071378587790970249
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

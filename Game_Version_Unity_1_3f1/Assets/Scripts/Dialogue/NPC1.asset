@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d61f6441c360ce1408614c47606bd0c9, type: 3}
+  m_Name: NPC1
+  m_EditorClassIdentifier: 
+  actor: {fileID: 783819400111732551, guid: 1fe72f57b352a6c4bb8418656352c5de, type: 3}
+  speakerSprite: {fileID: 0}
+  sentence: 
+  dialogues:
+  - actorName: Lua
+    profile: {fileID: -4738599279905183678, guid: 7a0ff2061f84b4d43aa8cf6a5d8efe03, type: 3}
+    sentence:
+      portuguese: "Ol\xE1, fofinho!"
+      english: Hello!
+      spanish: Hola!
+  - actorName: Kley
+    profile: {fileID: -8690178428761904197, guid: e7c332d85a427cf4a8c8dffdea89e3e9, type: 3}
+    sentence:
+      portuguese: "Ol\xE1, como voc\xEA est\xE1? "
+      english: Hello, how are you?
+      spanish: Hola, como estas?
